@@ -6,7 +6,7 @@ body {
     max-width: 1020px;
 }
 .product {
-    padding: 50px 0px 50px 0px;
+    padding: 50px 10px 50px 18px;
 }
 .product h1 {
     font-size: 2rem;
@@ -28,25 +28,25 @@ body {
     padding: 0;
     padding-right: 30px;
     padding-left: 30px;
-    height: 45px;
-    line-height: 45px;
+    height: 50px;
+    line-height: 50px;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
     font-family: "Lato", sans-serif;
     text-transform: uppercase;
     display: inline-block;
     overflow: hidden;
     outline: none;
-    border-radius: 2px;
-    font-weight: 400;
+    border-radius: 50px;
+    font-weight: 700;
     color: white;
     position: relative;
     text-decoration: none !important;
     -webkit-transition: all .4s ease;
     -o-transition: all .4s ease;
     transition: all .4s ease;
-    background-color: #E84C3D;
-    border-color: #E84C3D;
+    background-color: #ec3a3a;
+    border-color: #ec3a3a;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -68,12 +68,12 @@ body {
 #about-us {
     background: #f7f7f7 !important;
     border-radius: 3px;
-    padding: 50px 85px;
+    padding: 15px 85px;
     margin-top: 50px;
 }
 
 .studio-pic {
-    max-width: 530px;
+    max-width: 350px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
